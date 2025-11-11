@@ -1,0 +1,6 @@
+outputs/
+data/
+*.pt
+*.bin
+*.safetensors
+kaggle.json
